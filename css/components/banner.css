@@ -1,0 +1,23 @@
+.banner {
+	background-image: linear-gradient(-220deg,rgba(0, 0, 0, 0.3)0%, rgba(0, 0, 0, 0.2)30%),url("../../IMAGES/dune.jpg");
+	color: white;
+	padding: 80px;
+	background-size: cover;
+	background-position: left;
+
+}
+.banner h1 {
+	font-size: 72px; 
+	text-align: center;
+	font-family: 'Raleway', cursive;
+}
+
+.banner p {
+	font-size: 20px;
+	text-align: center;
+	font-family: 'Quicksand', cursive;
+}
+
+#blog-photo {
+	margin-bottom: 50px;
+}

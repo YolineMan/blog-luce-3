@@ -1,0 +1,20 @@
+.btn-bleu {
+	text-decoration :none;
+	background-color: #665A48;
+	padding : 8px 24px;
+	color: white;
+	border-radius: 6px;
+	text-align: center;
+}
+
+.banner {
+	text-align: center;
+	margin: 0px;
+}
+
+.btn-bleu:hover {
+	background-color: #9F8772;
+	transition: 0,5s;
+	text-align: center;
+	}
+

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Raleway:wght@100&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url(components/btn-bleu.css);
+@import url(components/banner.css);
+@import url(components/lesaviezvous.css);
+@import url(components/photo_carre.css);
+@import url(components/header.css);
+@import url(components/carousel.css);
+ 
+body {
+	font-family: 'Raleway', sans-serif;
+	font-size: 15px;
+	margin: 0;
+	background: linear-gradient(83deg, #F8EDE3, #DFD3C3, #D0B8A8);
+    background-size: 600% 600%;
+    -webkit-animation: AnimationName 17s ease infinite;
+    -moz-animation: AnimationName 17s ease infinite;
+    animation: AnimationName 17s ease infinite;
+}
+
+h1,h2,h3 {
+	font-family: 'Quicksand', sans-serif;
+}
